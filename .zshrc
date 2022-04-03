@@ -21,6 +21,10 @@ alias keti="kubectl exec -it"
 alias gg="search_web google"
 alias dd="search_web ddg"
 
+# GIT aliases
+alias grao="git remote add origin"
+alias gpuo="git push -u origin"
+
 # ASDF config
 . $HOME/.asdf/asdf.sh
 export KERL_BUILD_DOCS=yes
