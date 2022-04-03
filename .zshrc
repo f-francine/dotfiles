@@ -2,6 +2,11 @@ plugins=(git elixir z sudo compleat zsh-autosuggestions zsh-syntax-highlighting 
 
 source $ZSH/oh-my-zsh.sh
 
+export ZSH="/home/fran/.oh-my-zsh"
+
+ZSH_THEME=random
+ZSH_TEHEME_RANDOM_CANDIDATES=("bira" "clean" "essembeh" "frisk" "jispwoso" "jonathan" "maran" "macovsky-ruby")
+
 # Elixir aliases
 alias mt="mix test"
 alias mf="mix format"
