@@ -1,4 +1,4 @@
-plugins=(git elixir z sudo compleat zsh-autosuggestions zsh-syntax-highlighting)
+plugins=(git elixir z sudo compleat zsh-autosuggestions zsh-syntax-highlighting web-search)
 
 source $ZSH/oh-my-zsh.sh
 
