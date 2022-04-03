@@ -16,6 +16,8 @@ alias dcs="sudo docker container stop"
 
 # Kubernets aliases
 alias keti="kubectl exec -it"
+alias kgp="kubectl get pods"
+alias kdp="kubectl delete pod"
 
 # Search web aliases
 alias gg="web_search google"
