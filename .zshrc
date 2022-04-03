@@ -18,8 +18,8 @@ alias dcs="sudo docker container stop"
 alias keti="kubectl exec -it"
 
 # Search web aliases
-alias gg="search_web google"
-alias dd="search_web ddg"
+alias gg="web_search google"
+alias dd="web_search duckduckgo"
 
 # GIT aliases
 alias grao="git remote add origin"
